@@ -1,5 +1,8 @@
 # Insect Pest Species Classification
 
+## Dataset
+https://github.com/xpwu95/IP102
+
 ## Usage
 1. Install the required packages
 ```bash
